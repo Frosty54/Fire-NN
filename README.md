@@ -1,4 +1,4 @@
-# Fire NNUE
+# Frostiest Fake of Fire NNUE
 Strong state-of-art uci chess engine
 A strong UCI (no NNUE) chess engine utilizing a hand-crafted evaluation function
 
