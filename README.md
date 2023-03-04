@@ -1,13 +1,5 @@
-# Frostiest Fake of Fire NNUE
-Strong state-of-art uci chess engine
-A strong UCI (no NNUE) chess engine utilizing a hand-crafted evaluation function
-
-IMPORTANT: Sources published on release page. The binary weights 40mb
-
-fire w/ NNUE from self-play can be found here: https://github.com/FireFather/fire-zero
-fire w/ NNUE from shared SF & LC0 data can be found here: https://github.com/FireFather/fire-NN
-
-features
+# Fork of Frosty's Fake Repo
+Don't download the release!
 
 c++17
 windows & linux
@@ -97,9 +89,4 @@ if you are interested in learning about my particular testing methodology, I've 
 license
 Fire is distributed under the GNU General Public License. Please read LICENSE for more information.
 
-please see http://chesslogik.wix.com/fire for more info
-
-best regards-
-
-firefather@telenet.be
-Here I would try to improve this engine
+please see http://chesslogik.wix.com/fire for more in
