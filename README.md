@@ -2,7 +2,7 @@
 Strong state-of-art uci chess engine
 A strong UCI (no NNUE) chess engine utilizing a hand-crafted evaluation function
 
-IMPORTANT: Sources published on release page.
+IMPORTANT: Sources published on release page. The binary weights 40mb
 
 fire w/ NNUE from self-play can be found here: https://github.com/FireFather/fire-zero
 fire w/ NNUE from shared SF & LC0 data can be found here: https://github.com/FireFather/fire-NN
