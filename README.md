@@ -1,10 +1,14 @@
 # Fire-NN
 Strong state-of-art uci chess engine
 A strong UCI (no NNUE) chess engine utilizing a hand-crafted evaluation function
+
 IMPORTANT: Sources published on release page.
+
 fire w/ NNUE from self-play can be found here: https://github.com/FireFather/fire-zero
 fire w/ NNUE from shared SF & LC0 data can be found here: https://github.com/FireFather/fire-NN
+
 features
+
 c++17
 windows & linux
 uci
@@ -54,6 +58,7 @@ please see http://chesslogik.wix.com/fire for more info
 compile it yourself
 windows (visual studio) use included project files Fire.vcxproj or Fire.sln
 minGW run included bash scripts make_sse41.sh, make_bmi2.sh, make_avx2.sh, or make_all.sh
+
 ubuntu type 'make profile-build ARCH=x86-64-bmi2', 'make profile-build ARCH=x86-64-avx2', etc.
 uci options
 Hash size of the hash table. default is 64 MB.
