@@ -20,7 +20,7 @@ asychronous cout (acout) class using std::unique_lockstd::mutex
 fast alpha-beta search
 fire-1052022 is now available
 
-Fire has undergone months of meticulous analysis and refactoring using many of the most modern C++ tools available today, including Clang, ReSharper C++, and Visual Studio Code Analysis, ensuring the production of extremely fast highly optimized and stable executables.
+Schachmaschine has undergone months of meticulous analysis and refactoring using many of the most modern C++ tools available today, including Clang, ReSharper C++, and Visual Studio Code Analysis, ensuring the production of extremely fast highly optimized and stable executables.
 
 available windows binaries
 x64 avx2 = fast pgo binary (for modern 64-bit systems w/ AVX2 instruction set)
