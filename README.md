@@ -97,3 +97,4 @@ please see http://chesslogik.wix.com/fire for more info
 best regards-
 
 firefather@telenet.be
+Here I would try to improve this engine
